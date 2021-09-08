@@ -1,6 +1,6 @@
 # RESTful API Computer Inventory App
 
-<p align="center">
+<p align="center"> 
   <a href="https://nodejs.org/">
     <img alt="restfulapi" title="Restful API" src="https://cdn-images-1.medium.com/max/871/1*d2zLEjERsrs1Rzk_95QU9A.png">
   </a>

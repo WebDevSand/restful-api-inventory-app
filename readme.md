@@ -25,7 +25,7 @@
 - Code Editor - Download and Install [VS Code](https://code.visualstudio.com/Download) - Code editor that i use to create this project.
 - XAMPP - Download and Install [XAMPP](https://www.apachefriends.org/download.html) - XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages. So, i don't need to install mysql anymore.
 
-## Installation
+## Installation 
 ### Clone
 ```
 $ git clone https://github.com/Ertilu/restful-api-inventory-app.git
